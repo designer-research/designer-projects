@@ -19,5 +19,20 @@
       'prototyping'
     ]
   },
+  {
+    name: 'blender',
+    author: 'blender',
+    website: 'https://www.blender.org/',
+    isOpenSource: true,
+    repository: 'https://github.com/blender/blender',
+    license: 'GPL v3',
+    platforms: [
+      'web'
+    ],
+    features: [
+      'design',
+      '3d'
+    ]
+  },
 ]
 ```

@@ -27,7 +27,7 @@
     repository: 'https://github.com/blender/blender',
     license: 'GPL v3',
     platforms: [
-      'web'
+      'desktop'
     ],
     features: [
       'design',
